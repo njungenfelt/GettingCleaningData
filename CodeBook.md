@@ -22,10 +22,10 @@ Other important variables included in the data cleaning are derived as follows:
 | `means`       | Indices of `features` containing mean        |
 | `stdevs`       | Indices of `features` containing standard deviation        |
 | `measures`       | Merge of `mean` and `stdevs`  |
+| `relevantSet`         | Extraction of only mean and std variables from `fullSet`      |
 | `actNamesTest`       | Activity names joined to `test` data       |
 | `actNamesTrain`       | Activity names joined to `train` data         |
 | `actNames`       | Merge of `actNamesTest` and `actNamesTrain`, named `activityType` in the data frame  |
-| `relevantSet`         | Extraction of only mean and std variables from `fullSet`      |
 | `subject`       | Merge of `testSub` and `trainSub`        |
 | `tidySet`      | Means of all variables grouped by factors `subject` and `activityType`       |
 
