@@ -16,3 +16,8 @@ activities  "activity_labels.txt"
 | test          | test/X_test.txt        |
 | testAct       | test/y_test.txt        |
 | testSub       | test/subject_test.txt  |
+| train         | train/X_test.txt       |
+| trainAct      | train/y_test.txt       |
+| trainSub      | train/subject_train.txt|
+| features      | features.txt           |
+| activities    | activity_labels.txt    |
