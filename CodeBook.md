@@ -13,6 +13,8 @@ The following information is loaded into R from https://d396qusza40orc.cloudfron
 | `features`      | features.txt           |
 | `activities`    | activity_labels.txt    |
 
+Informaion on the raw data can be found in README.txt, features_info.txt, and here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 ###Other Variables
 Other important variables included in the data cleaning are derived as follows:
 
